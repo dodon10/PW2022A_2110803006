@@ -1,0 +1,27 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    color: #f89c9c;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+P{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: gold;
+    line-height: 1cm;
+    font-weight: 100;
+    font-style: italic;
+    font-variant: small-caps;
+    text-align: justify;
+    text-indent: 20%;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: normal;
+    word-spacing: normal;
+}

@@ -1,0 +1,10 @@
+body{
+    background-image: url(gambar1.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h1{
+    text-align: center;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
